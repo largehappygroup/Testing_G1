@@ -61,7 +61,7 @@ For Linux, there are various screen recording tools available. Here's how to use
 
 ## Task 1 MarsRoverAPI
 
-**Setup Instruction**
+**Setup Instructions**
 
 1. Download or clone this repository to your local machine.
 2. Open IntelliJ IDEA.
@@ -92,7 +92,7 @@ Congratulations, you just finished Task 1. Continue to [Task 2 BowlingScoreKeepe
 
 ## Task 2 BowlingScoreKeeper
 
-**Setup Instruction**
+**Setup Instructions**
 
 1. Open the `BowlingScoreKeeper` folder as a project in IntelliJ IDEA.
 2. Review the task-specific instructions in [BowlingScoreKeeper/README.md](./BowlingScoreKeeper/README.md) before you begin editing.
@@ -108,7 +108,7 @@ This is also a testing task. Your goal is to add JUnit tests that check the beha
 - You may keep, change, or remove the starter example tests, as long as your final test files thoroughly verify the required behavior.
 - Time limit: 60 minutes, with up to 20% extra time if needed.
 
-**Submission Instructions **
+**Submission Instructions**
 
 1. Make sure your finished work is saved in `BowlingScoreKeeper/src/FrameTest.java` and `BowlingScoreKeeper/src/BowlingGameTest.java`.
 2. Close IntelliJ IDEA if needed so all files are fully written to disk.
