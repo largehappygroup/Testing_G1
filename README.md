@@ -1,4 +1,4 @@
-# CS 2201: Project 0 — Instructions
+# CS 2201: Project 0 Extra Credits — Instructions
 
  This homework consists of two tasks: (1) MarsRover and (2) BowlingScoreKeeper. 
 
@@ -23,7 +23,7 @@
 In other words, you should time yourself starting at the moment when you start working in IntelliJ IDEA. The screen recording you submit should demonstrate your compliance with these timing constraints, from the initiation to the completion of each task.
 
 
-1. **Operating System:** You may use any operating system to complete this assignment, provided all activities are conducted within IntelliJ IDEA.
+1. **Operating System:** You may use any operating system to complete this task, provided all activities are conducted within IntelliJ IDEA.
 
 Below, we have provided guidance to help you get started.
 
@@ -115,7 +115,7 @@ This is also a testing task. Your goal is to add JUnit tests that check the beha
 3. You may now stop the screen recording. Save the recording to your local computer and rename it as `<VUnetID_Video_Task2>`.
 4. Compress the entire `BowlingScoreKeeper` folder into a zip file.
 5. Rename the zip file to `<VUnetID_Task2>.zip`.
-6. Submit `<VUnetID_Task2>.zip` and `<VUnetID_Video_Task2>` via Box using the link sent to your Vanderbilt email.
+6. Submit `<VUnetID_Task2>.zip` and `<VUnetID_Video_Task2>` via Box using the [link](https://vanderbilt.box.com/s/v822ewneydgpsx41qamjdhl7h8kmg915)  sent to your Vanderbilt email.
 
 Congratulations, you just finished ALL tasks in this study!!! 
 
