@@ -11,7 +11,7 @@
 
 ## Important Notes
 
-1. Before you get started, please make sure you've given us your consent and helped us understand your confidence in unit testing through this link: https://forms.gle/vz9iFFZF1haxRftP9. We've also included this link in the email:)
+1. Before you get started, please make sure you've given us your consent and helped us understand your confidence in unit testing through this link: https://forms.gle/vubcNmtdhUZUdjLAA. We've also included this link in the email:)
 
 2. 🟢 **TestCompass:** You are *required* to use [TestCompass](https://plugins.jetbrains.com/plugin/30034-vandytest), with proper prompts, to assist you in this homework. The screen recording (explained below) you submit should demonstrate your compliance with this requirement. **TestCompass** is an IntelliJ IDEA plugin that can help you reason about what behavior to test, suggest useful test scenarios, and review whether your JUnit tests cover the task requirements; to use it, **please refer to the instructions [here](https://github.com/littlehousezh/test_plugin/blob/main/README.md) for guidance on how to use this plugin.**
 
